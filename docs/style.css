@@ -14,11 +14,19 @@ header {
 }
 
 h2 {
+  font-style: italic;
+}
+
+h3 {
 	color: #ff6040;
 }
 
 a {
 	color: lightblue;
+}
+
+main hr {
+  border: 1px dashed;
 }
 
 .container {
